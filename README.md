@@ -1,2 +1,2 @@
 # Terraform-Project
-This is my Terraform Projct. I have deployed complete infrastructure of AWS using Terraform Code.
+This is my Terraform Project. I have deployed the complete infrastructure of AWS using Terraform Code.
